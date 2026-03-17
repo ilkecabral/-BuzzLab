@@ -257,11 +257,6 @@ IP:           192.168.0.103
 Credentials:  msfadmin / msfadmin
 ```
 
-#### SSH Access
-
-```bash
-ssh -oHostKeyAlgorithms=+ssh-rsa,ssh-dss msfadmin@192.168.0.103
-```
 
 #### Open Ports & Vulnerable Services
 
