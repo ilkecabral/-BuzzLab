@@ -1,4 +1,4 @@
-# -BuzzLab<div align="center">
+# BuzzLab<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=BuzzLab+%F0%9F%A7%AA;Self-Hosted+Home+Lab;Built+on+Proxmox+VE)](https://git.io/typing-svg)
 
